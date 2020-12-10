@@ -1,0 +1,17 @@
+{
+  "name": "deploy-tutorial-pandajiny",
+  "version": "1.0.0",
+  "description": "Testing node module for deploy",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [],
+  "author": "pandajiny",
+  "license": "ISC"
+}
