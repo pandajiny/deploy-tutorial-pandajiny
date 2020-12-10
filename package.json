@@ -11,6 +11,10 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandajiny/deploy-tutorial-pandajiny"
+  },
   "keywords": [],
   "author": "pandajiny",
   "license": "ISC"
